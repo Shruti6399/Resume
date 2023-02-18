@@ -147,3 +147,15 @@ p{
 .footer-icons{
     margin: 20px 10px;
 }
+.skills-h3{
+    padding-bottom: 4px;;
+}
+
+p{
+    size: 3rem;
+    color: black;
+}
+
+.card-body , .card-header{
+    background-color: #ECF2FF;
+}
